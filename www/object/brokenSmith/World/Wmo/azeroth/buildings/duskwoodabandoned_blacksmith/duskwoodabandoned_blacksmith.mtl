@@ -1,0 +1,193 @@
+#
+# duskwoodabandoned_blacksmith.mtl
+#
+
+newmtl Dungeons\Textures\Floor\Mm_Wf_Blcksmth_Floor_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Blcksmth_Floor_01.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Wf_Metal_Plating_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Plating_01.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Wf_Metal_Trims_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Trims_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Woodtrim_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Woodtrim_01.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Aduskwood_Wall_03
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Aduskwood_Wall_03.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Strmwnd_Wall_04
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Strmwnd_Wall_04.tga
+
+newmtl Dungeons\Textures\Windows\Mm_Aduskwood_Wnd_Int__01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Aduskwood_Wnd_Int__01.tga
+
+newmtl Dungeons\Textures\Floor\Mm_Wf_Blcksmth_Floor_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Blcksmth_Floor_01.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Wf_Metal_Plating_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Plating_01.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Wf_Metal_Trims_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Trims_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Woodtrim_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Woodtrim_01.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Aduskwood_Wall_03
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Aduskwood_Wall_03.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Strmwnd_Wall_04
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Strmwnd_Wall_04.tga
+
+newmtl Dungeons\Textures\Windows\Mm_Aduskwood_Wnd_Int__01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Aduskwood_Wnd_Int__01.tga
+
+newmtl Dungeons\Textures\Decoration\Mm_Wroughtiron_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wroughtiron_01.tga
+
+newmtl Dungeons\Textures\Floor\Mm_Duskwood_Wood_Floor_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Wood_Floor_01.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Wf_Metal_Plating_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Plating_01.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Wf_Metal_Trims_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Trims_01.tga
+
+newmtl Dungeons\Textures\Roof\Mm_Aduskwood_Roof_02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Aduskwood_Roof_02.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Stonebase_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Stonebase_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Supports_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Supports_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Woodtrim_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Woodtrim_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Wf_Chimney_Top_01X
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Chimney_Top_01X.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Wf_Metal_Floor_Border_01X
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Floor_Border_01X.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Strmwnd_Wall_04
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Strmwnd_Wall_04.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Wf_Barracks_Wall_02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Barracks_Wall_02.tga
+
+newmtl Dungeons\Textures\Windows\Mm_Aduskwood_Wnd_Int__01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Aduskwood_Wnd_Int__01.tga
+

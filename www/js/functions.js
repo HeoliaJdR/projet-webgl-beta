@@ -101,3 +101,148 @@ function newObjMeshWithAutoText (dimX, dimY, dimZ, texturePath, activeWrap, repX
   var newMesh = new THREE.Mesh( newObjGeo, newObjMat );
   return newMesh;
 }
+
+/*
+  #################################################################
+  #                           JSON MESH                           #
+  #################################################################
+*/
+function newJsonMesh(filePath, meshName, scale, x, y, z, rotationNeeded, rotationy){
+  new THREE.ObjectLoader().load( filePath, function ( meshName ) {
+
+      meshName.scale.set(scale,scale,scale);
+      meshName.position.x = x;
+      meshName.position.y = y;
+      meshName.position.z = z;
+      if( rotationNeeded == 1 ){
+        meshName.rotation.y = (Math.PI)/rotationy;
+      }
+
+    scene.add( meshName );
+    console.log(filePath + " a bien été chargé");
+
+  } );
+}
+
+
+function jsonLoaderMesh(filePath, meshName, scale, x, y, z, rotationNeeded, rotationy, nbMat, displayed){
+  if(displayed == "yes"){
+    var loader = new THREE.JSONLoader();
+
+    // load a resource
+    loader.load(
+    	// resource URL
+    	filePath,
+
+    	// onLoad callback
+    	function ( geometry, material ) {
+        for(i = 0; i < nbMat; i++){
+          material[i].morphTargets = true;
+        }
+        var materials = new THREE.MeshFaceMaterial(material);
+    		var meshName = new THREE.Mesh( geometry, material );
+        meshName.scale.set(scale,scale,scale);
+        meshName.position.x = x;
+        meshName.position.y = y;
+        meshName.position.z = z;
+        meshName.castShadow = true;
+        if( rotationNeeded == 1 ){
+          meshName.rotation.y = (Math.PI)/rotationy;
+        }
+    		scene.add( meshName );
+        console.log(filePath + " est chargé.")
+    	},
+
+    	// onProgress callback
+    	function ( xhr ) {
+    		console.log( (xhr.loaded / xhr.total * 100) + '% loaded' );
+    	},
+
+    	// onError callback
+    	function( err ) {
+    		console.log( 'An error happened' );
+    	}
+    );
+  } else if (displayed == "no"){
+    console.log("L'objet est désactivé")
+  }
+}
+function getRandomInt(max) {
+  return Math.floor(Math.random() * Math.floor(max));
+}
+
+function createForest(){
+  var xa = -5000;
+  var ya = -20;
+  var za = 0;
+  for(i = 0; i < 6; i++){
+    for(j = 0; j < 13; j++){
+      jsonLoaderMesh('object/tree1/tree1.json', newJsonMesh, 100, xa, ya, za, 0, 0, 2, "yes");
+      za += getRandomInt(200);
+    }
+    xa += 200;
+    za = 0;
+  }
+
+  console.log("Forêt créée");
+}
+
+function  createWallLeft(){
+  var newJsonMesh;
+  var xa = -2500;
+  var ya = -20;
+  var za = 0;
+  for(i = 0; i < 15; i++){
+    jsonLoaderMesh('object/brokenWall/brokenWall.json', newJsonMesh, 20, xa, ya, za, 0, 0, 2, "yes");
+    za -= 249;
+  }
+}
+
+function  createWallRight(){
+  var newJsonMesh;
+  var xa = -2500;
+  var ya = -20;
+  var za = 2000;
+  for(i = 0; i < 10; i++){
+    jsonLoaderMesh('object/brokenWall/brokenWall.json', newJsonMesh, 20, xa, ya, za, 0, 0, 2, "yes");
+    za += 249;
+  }
+}
+///////
+function ghettoCreationRight(x, y ,z, orientation){
+  var newJsonMesh;
+  var name;
+  var nbMat;
+  for(i = 0; i < 20; i++){
+    rand = getRandomInt(2);
+    if (rand == 1){
+      name = 'object/burnedHouse/burnedHouse.json';
+      nbMat = 6;
+    }
+    else{
+      name = 'object/brokenHouse/brokenHouse.json';
+      nbMat = 13;
+    }
+    jsonLoaderMesh(name, newJsonMesh, 20, x, y, z, 1, orientation, nbMat, "yes");
+    z += 249;
+  }
+}
+
+function ghettoCreationLeft(x, y ,z, orientation){
+  var newJsonMesh;
+  var name;
+  var nbMat;
+  for(i = 0; i < 20; i++){
+    rand = getRandomInt(2);
+    if (rand == 1){
+      name = 'object/burnedHouse/burnedHouse.json';
+      nbMat = 6;
+    }
+    else{
+      name = 'object/brokenHouse/brokenHouse.json';
+      nbMat = 13;
+    }
+    jsonLoaderMesh('object/burnedHouse/burnedHouse.json', newJsonMesh, 20, x, y, z, 1, orientation, nbMat, "yes");
+    z -= 249;
+  }
+}

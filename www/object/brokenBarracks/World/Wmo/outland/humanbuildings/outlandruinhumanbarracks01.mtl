@@ -1,0 +1,81 @@
+#
+# outlandruinhumanbarracks01.mtl
+#
+
+newmtl Dungeons\Textures\Walls\Mm_Duskwood_Wall_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Wall_01.tga
+
+newmtl Dungeons\Textures\Outland\Mm_Ogrmr_Afloor_03_Ruin
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Ogrmr_Afloor_03_Ruin.tga
+
+newmtl World\Environment\Doodad\Outland\Human_Ruins\Texture\Outland_Barracks_Trim_Ruin01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Outland_Barracks_Trim_Ruin01.tga
+
+newmtl World\Environment\Doodad\Outland\Humantank\Tex\Stone01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Stone01.tga
+
+newmtl World\Environment\Doodad\Outland\Human_Ruins\Texture\Outland_Barracks_Wall_Ruin02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Outland_Barracks_Wall_Ruin02.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Wf_Chimney_Top_01X
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Chimney_Top_01X.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Wf_Metal_Floor_Border_01X
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Floor_Border_01X.tga
+
+newmtl World\Environment\Doodad\Outland\Human_Ruins\Texture\Outland_Barracks_Wall_Ruin01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Outland_Barracks_Wall_Ruin01.tga
+
+newmtl Dungeons\Textures\Decoration\Mm_Wf_Metal_Lionhead_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Lionhead_01.tga
+
+newmtl World\Environment\Doodad\Outland\Humantank\Tex\Rubble
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Rubble.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Wf_Metal_Plating_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Wf_Metal_Plating_01.tga
+

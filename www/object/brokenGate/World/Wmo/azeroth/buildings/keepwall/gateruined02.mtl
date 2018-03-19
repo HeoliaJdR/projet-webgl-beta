@@ -1,0 +1,67 @@
+#
+# gateruined02.mtl
+#
+
+newmtl Dungeons\Textures\Brian\Brokengatewoodburned02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Brokengatewoodburned02.tga
+
+newmtl Dungeons\Textures\Brian\Ruinedtower\Tower_Side_03
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tower_Side_03.tga
+
+newmtl Dungeons\Textures\Brian\Valleygate\Mm_Irnfg_Entry_Trim_03_Storm
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Irnfg_Entry_Trim_03_Storm.tga
+
+newmtl Dungeons\Textures\Floor\Mm_Street_03
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Street_03.tga
+
+newmtl Dungeons\Textures\Floor\Mm_Strmwnd_Int_Floor_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Strmwnd_Int_Floor_01.tga
+
+newmtl Dungeons\Textures\Floor\Mm_Strmwnd_Int_Floor_02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Strmwnd_Int_Floor_02.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Strmwnd_Wtrim_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Strmwnd_Wtrim_01.tga
+
+newmtl Dungeons\Textures\Walls\Jlo_Strathhold_Solidwall
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Jlo_Strathhold_Solidwall.tga
+
+newmtl Dungeons\Textures\Walls\Jlo_Strathhold_Stonewall
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Jlo_Strathhold_Stonewall.tga
+

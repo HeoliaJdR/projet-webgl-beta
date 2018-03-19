@@ -1,0 +1,60 @@
+#
+# duskwood_stable.mtl
+#
+
+newmtl Dungeons\Textures\Roof\Mm_Duskwood_Roof_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Roof_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Stonebase_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Stonebase_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Supports_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Supports_01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Duskwood_Woodtrim_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Woodtrim_01.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Duskwood_Wall_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Wall_01.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Strmwnd_Wall_02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Strmwnd_Wall_02.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Westfall_Wall_02
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Westfall_Wall_02.tga
+
+newmtl Dungeons\Textures\Walls\Mm_Westfall_Wall_03
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Westfall_Wall_03.tga
+

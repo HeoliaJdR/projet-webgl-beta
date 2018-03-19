@@ -1,0 +1,46 @@
+#
+# duskwoodfarmhouseburnt.mtl
+#
+
+newmtl Dungeons\Textures\Brick\Mm_Duskwood_Brick_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Brick_01.tga
+
+newmtl Dungeons\Textures\Floor\Mm_Duskwood_Stonefloor_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Duskwood_Stonefloor_01.tga
+
+newmtl Dungeons\Textures\Metal\Mm_Minerail_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Minerail_01.tga
+
+newmtl Dungeons\Textures\Trim\Duskwood_Woodtrim_Burnt01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Duskwood_Woodtrim_Burnt01.tga
+
+newmtl Dungeons\Textures\Trim\Mm_Westfall_Stonebase_01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Mm_Westfall_Stonebase_01.tga
+
+newmtl Dungeons\Textures\Walls\Duskwood_Int_Wall_Burnt01
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Duskwood_Int_Wall_Burnt01.tga
+

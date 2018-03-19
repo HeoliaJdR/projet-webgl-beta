@@ -1,0 +1,18 @@
+#
+# wallpiece02.mtl
+#
+
+newmtl Dungeons\Textures\Brian\Ruinedtower\Tower_Side_03
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Tower_Side_03.tga
+
+newmtl Dungeons\Textures\Walls\Jlo_Strathhold_Stonewall
+Kd 0.750000 0.750000 0.750000
+Ka 0.250000 0.250000 0.250000
+Ks 0.000000 0.000000 0.000000
+Ns 0.000000
+map_Kd Jlo_Strathhold_Stonewall.tga
+
